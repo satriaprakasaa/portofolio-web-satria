@@ -8,13 +8,13 @@ Dokumen ini berisi dokumentasi teknis, perancangan antarmuka bergaya *Cyberpunk*
 
 ## 📸 Preview Tampilan & Dokumentasi
 
-| Desktop View (Hero) | Terminal CLI Easter Egg | 
-| :---: | :---: | 
-| <img src="hero.png" width="450" alt="Desktop View (Hero)"> |  | <img src="terminal.png" width="450" alt="Terminal CLI Easter Egg"> |
+| Desktop View (Hero) | Terminal CLI Easter Egg |
+| :---: | :---: |
+| <img src="Portofolio Web Satria/docs/hero.png" width="450" alt="Desktop View"> | <img src="Portofolio Web Satria/docs/terminal.png" width="450" alt="Terminal CLI"> |
 
-| 3D Tilt Projects | Skills | 
-| :---: | :---: | 
-| <img src="3d-tilt.png" width="450" alt="3D Tilt Projects"> | <img src="skills.png" width="450" alt="Skills"> | 
+| 3D Tilt Projects | Skills |
+| :---: | :---: |
+| <img src="Portofolio Web Satria/docs/3d-tilt.png" width="450" alt="3D Tilt Projects"> | <img src="Portofolio Web Satria/docs/skills.png" width="450" alt="Skills Section"> |
 
 ## 📌 Ringkasan Proyek (Overview)
 
